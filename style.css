@@ -14,7 +14,7 @@ Set the element with the id of #main-header to a font-size of 22px
 Set the elements with the class of .perspective-questions to a font-style of italic
 Run learn to test your work and learn submit once you've passed all the testsag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-  width: 700px; margin: auto; font-family: "Helvetica Neue"; background: "white"; padding: 30px;
+  width: 700px; margin: auto; font-family: "Helvetica Neue"; background: white; padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
